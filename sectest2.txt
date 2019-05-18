@@ -1,1 +1,1 @@
-2 nd file related to second branch. file is modified
+2 nd file related to second branch. file is modified for stashing
