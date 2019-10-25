@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is the 3 rd file
-=======
-this  is  3 rd file
->>>>>>> firstbranch
