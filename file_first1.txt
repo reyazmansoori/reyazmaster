@@ -1,1 +1,2 @@
-this file is created specifically for first branch
+this file is created specifically for first branch.
+now i will add some thing related to sec branch as well
