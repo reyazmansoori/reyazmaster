@@ -1,4 +1,4 @@
-##GIT COMPARISON FILE MENU#####
+#################################################GIT COMPARISON FILE MENU##############################################################
 
 @@Git Starter Project@@@@@@@
 this is a git starter project
