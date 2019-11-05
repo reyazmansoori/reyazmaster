@@ -1,0 +1,13 @@
+*************************************************MASTER GIt file 1****************************************************************************
+
+***********Git Training Manual@@@@@@@
+this is a git training project
+
+******Introduction of Git Master File***************************
+here we will give the introduction of Git master filw which will tell all about  what Git.
+
+@@Git and github manual projects@@
+here i am learning ome git and github mastery
+
+********************************************************************************************************************
+
