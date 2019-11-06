@@ -15,3 +15,5 @@ here we will give the introduction what Git all about
 
 @@Git and github tutorials@@
 here i am learning ome git and github keywords and terminologies
+
+!!!!!!!!!!!!!!!!!!!!2nd developer coommit some changes with respect to gitcomp1.txt in masterbranch
