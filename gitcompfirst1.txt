@@ -1,0 +1,13 @@
+*************************************************1st file of first branch****************************************************************************
+
+***********Git Training Manual for first branch@@@@@@@
+this is a git training project
+
+******Introduction of Git firstbranch File***************************
+here we will give the introduction of Git firstbranch file which will tell all about  what Git.
+
+@@Git and github manual projects for first branch@@
+here i am learning ome git and github mastery 
+
+********************************************************************************************************************
+
