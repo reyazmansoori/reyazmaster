@@ -15,5 +15,3 @@ here we will give the introduction what Git all about
 
 @@Git and github tutorials@@
 here i am learning ome git and github keywords and terminologies
-
-@@@@@@@@@@@@@@@@@@@@Doing some changes regards to first branch@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
