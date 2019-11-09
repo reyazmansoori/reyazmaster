@@ -20,3 +20,5 @@ here i am learning ome git and github keywords and terminologies
 
 
 ===================1st Developer commit some changes in gitcomp1 in firstbranch=========================
+
+===================for rebasing part-1 1st Developer commit some changes in gitcomp1 in master============================
