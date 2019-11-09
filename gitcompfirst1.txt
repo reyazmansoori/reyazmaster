@@ -10,6 +10,6 @@ here we will give the introduction of Git firstbranch file which will tell all a
 here i am learning ome git and github mastery 
 
 
-For rebase purpose in the file gitcompfirst1.txt, i am doing some changes In firstbranch
+############rebase purpose in the file gitcompfirst1.txt#####################
 ********************************************************************************************************************
 
