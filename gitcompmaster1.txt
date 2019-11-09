@@ -19,6 +19,6 @@ here i am learning ome git and github mastery
 
 For rebase purpose in the file gitcompmaster.txt, i am doing some changes In masterbranch
 ######################seeing the difference between merge and rebase################################
-For rebase purpose in the file gitcompmaster.txt, i am doing some changes In masterbranch
+###############################rebase purpose in the file gitcompmaster.txt############
 ********************************************************************************************************************
 
