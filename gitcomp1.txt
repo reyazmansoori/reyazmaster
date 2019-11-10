@@ -26,3 +26,5 @@ here i am learning ome git and github keywords and terminologies
 =====for rebasing part-2 againnnnnnnnnnn  1st Developer commit some changes in gitcomp1 in master============================
 
 +++++++rebasing of Local with Remote+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+########################making some changes wrt to stashing###########################################
