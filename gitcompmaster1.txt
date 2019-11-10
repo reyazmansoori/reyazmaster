@@ -16,3 +16,6 @@ here i am learning ome git and github mastery
 
 
 ######commiting 2nd changes in gitmaster file for renovation######################
+
+
+%%%%%%%%%Doing some changes wrt to stash %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
