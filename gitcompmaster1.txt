@@ -16,6 +16,3 @@ here i am learning ome git and github mastery
 
 
 ######commiting 2nd changes in gitmaster file for renovation######################
-
-For rebase purpose in the file gitcompmaster.txt, i am doing some changes In masterbranch
-
