@@ -29,4 +29,4 @@ here i am learning ome git and github keywords and terminologies
 
 ########################making some changes wrt to stashing###########################################
 
-@@@@@@@@@@@@@@Adding important note on git stash@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@Adding important note on git stash along with pop@@@@@@@@@@@@@@@@@@@@@@@@
