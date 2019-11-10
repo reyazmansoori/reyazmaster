@@ -28,3 +28,5 @@ here i am learning ome git and github keywords and terminologies
 +++++++rebasing of Local with Remote+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ########################making some changes wrt to stashing###########################################
+
+@@@@@@@@@@@@@@Adding important note on git stash@@@@@@@@@@@@@@@@@@@@@@@@
